@@ -1,0 +1,20 @@
+{
+  "name": "adrino-traffic-light",
+  "version": "1.0.0",
+  "description": "adruino traffic light system",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "traffic",
+    "light",
+    "adruino"
+  ],
+  "author": "SAm, Alan and Iain",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.0.0"
+  }
+}
